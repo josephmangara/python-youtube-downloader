@@ -1,0 +1,6 @@
+# How to use the app
+
+python3 downloadyt.py "https://youtu.be/HMDcwE6SdrM"
+
+### python3 ytalt.py "https://youtu.be/HMDcwE6SdrM"
+
