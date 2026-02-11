@@ -5,7 +5,10 @@ link = sys.argv[1]
 
 ydl_opts = {
     "format": "bestvideo+bestaudio/best",
-    "outtmpl": "/home/mangara/H/%(title)s.%(ext)s",
+
+    # Update the download path to match your pc's file structure. 
+    "outtmpl": "/home/mangara/H/%(title)s.%(ext)s", 
+
     "writesubtitles": False,
     "writeautomaticsub": False,
     "writethumbnail": False,
