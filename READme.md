@@ -23,7 +23,7 @@
 - Run this code to download videos. 
 
 ```bash
-    python3 ytalt.py "insert youtube url here"
+    python3 ytalt.py "https://youtu.be/wKpQ7dx_fPk?list=RDOmgYH-vVUo0"
 
     # alternative (using pytube)
     python3 downloadyt.py "insert youtube url here"
